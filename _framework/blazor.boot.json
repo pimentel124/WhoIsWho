@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "AmantesAmigos",
   "resources": {
-    "hash": "sha256-Jl33hOUzw05eueG2KIXJ2iu1T/705s2Qua/ohXRXtXM=",
+    "hash": "sha256-ITcszdRg8ZlCWa0e1HTcA4N8+7aWVUqkyqJCET+ZCKo=",
     "fingerprinting": {
-      "AmantesAmigos.vha61vf9w4.wasm": "AmantesAmigos.wasm",
+      "AmantesAmigos.msuk3o1s5v.wasm": "AmantesAmigos.wasm",
       "Microsoft.AspNetCore.Components.vvvt2mx1xv.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.cwglrug58c.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.o22c0cd7p6.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
@@ -102,7 +102,7 @@
       "System.Runtime.InteropServices.JavaScript.3uvku0ibnu.wasm": "sha256-K5wa4QwWB8A0OrHM4yWK86Nl6ItEv9c3ctAASLMYLKo="
     },
     "assembly": {
-      "AmantesAmigos.vha61vf9w4.wasm": "sha256-oydqpuUjEBhFO/gk2NdpwmniwQ9DxdphSXCxZvm+SYU=",
+      "AmantesAmigos.msuk3o1s5v.wasm": "sha256-5iu6NWvueZ5oyF9zM35R/qG9Q+Zm2d5Ee/MLXDbfItY=",
       "Microsoft.AspNetCore.Components.vvvt2mx1xv.wasm": "sha256-VQ9BN4XjikKtytSsjQB7Nl2ABv+75rZ9kNm8YLjD/XU=",
       "Microsoft.AspNetCore.Components.Web.cwglrug58c.wasm": "sha256-zLuibsw1tatLakPQ5snrAxhCyJBfbiwM/6MRleFK8rw=",
       "Microsoft.AspNetCore.Components.WebAssembly.o22c0cd7p6.wasm": "sha256-gCpfoeRNNk3SrcqRUe9rIG6gwo1EyP7GxiD8ZmCHCTI=",
